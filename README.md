@@ -16,12 +16,15 @@ specified length on stdout.
 # Installation
 
 *** download the folder fastq_length_filter:
+
 git clone [public gitHub address when program will be online]
 
 *** go into the folder:
+
 cd fastq_length_filter
 
 *** compile program:
+
 make
 
 
