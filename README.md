@@ -17,7 +17,7 @@ specified length on stdout.
 
 *** download the folder fastq_length_filter:
 
-git clone [public gitHub address when program will be online]
+git clone https://github.com/ClaireMarchal/fastq_length_filter.git
 
 *** go into the folder:
 
